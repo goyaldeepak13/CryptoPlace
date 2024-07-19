@@ -1,1 +1,1 @@
-Live Link: https://cryptopricetrackingapp.netlify.app/
+Live Link: https://crypto-price-tracker-tan.vercel.app/
